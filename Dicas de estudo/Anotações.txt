@@ -1,0 +1,4 @@
+Este arquivo tem como objetivo manter as anotações referente a dicas e pontos importantes para auxiliar no aprendizado do curso da Dio-Fullstack-UNIMED-Bootcamp
+
+--------------------------------------------------------------------------------------
+
